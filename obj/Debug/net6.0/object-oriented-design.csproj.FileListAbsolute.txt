@@ -1,0 +1,15 @@
+/Users/mayurj/Projects/object-oriented-design/bin/Debug/net6.0/object-oriented-design
+/Users/mayurj/Projects/object-oriented-design/bin/Debug/net6.0/object-oriented-design.deps.json
+/Users/mayurj/Projects/object-oriented-design/bin/Debug/net6.0/object-oriented-design.runtimeconfig.json
+/Users/mayurj/Projects/object-oriented-design/bin/Debug/net6.0/object-oriented-design.dll
+/Users/mayurj/Projects/object-oriented-design/bin/Debug/net6.0/ref/object-oriented-design.dll
+/Users/mayurj/Projects/object-oriented-design/bin/Debug/net6.0/object-oriented-design.pdb
+/Users/mayurj/Projects/object-oriented-design/obj/Debug/net6.0/object-oriented-design.csproj.AssemblyReference.cache
+/Users/mayurj/Projects/object-oriented-design/obj/Debug/net6.0/object-oriented-design.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayurj/Projects/object-oriented-design/obj/Debug/net6.0/object-oriented-design.AssemblyInfoInputs.cache
+/Users/mayurj/Projects/object-oriented-design/obj/Debug/net6.0/object-oriented-design.AssemblyInfo.cs
+/Users/mayurj/Projects/object-oriented-design/obj/Debug/net6.0/object-oriented-design.csproj.CoreCompileInputs.cache
+/Users/mayurj/Projects/object-oriented-design/obj/Debug/net6.0/object-oriented-design.dll
+/Users/mayurj/Projects/object-oriented-design/obj/Debug/net6.0/ref/object-oriented-design.dll
+/Users/mayurj/Projects/object-oriented-design/obj/Debug/net6.0/object-oriented-design.pdb
+/Users/mayurj/Projects/object-oriented-design/obj/Debug/net6.0/object-oriented-design.genruntimeconfig.cache
